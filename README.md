@@ -1,2 +1,2 @@
 # My-tts-generator
-This is a text to speech generator that automaticly generates from text to speech
+Be careful it crashes the program when you press ok and tells the word in the desktom screen btw not a virus just a .vbs
